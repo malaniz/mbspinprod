@@ -1,0 +1,15 @@
+
+# VIM 
+*~
+*.sw?
+
+*.zip
+*.jpg
+
+CVS*
+.env
+
+*.o
+
+mbspinprod
+
